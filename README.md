@@ -32,7 +32,7 @@
 
 ### Read-only mirror of R source code
 
-* [GitHub - wch/r-source: Read-only mirror of R source code from https://svn.r-project.org/R/, updated hourly. See the build instructions on the wiki page.](https://github.com/wch/r-source)
+* [GitHub - wch/r-source: Read-only mirror of R source code.](https://github.com/wch/r-source)
 
 ## Report
 
