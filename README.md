@@ -40,3 +40,11 @@
 
 * [Get help! - Tidyverse](https://www.tidyverse.org/help/)
 * [So you’ve been asked to make a reprex | Jesse Maegan](https://www.jessemaegan.com/post/so-you-ve-been-asked-to-make-a-reprex)
+
+### deparse package
+
+* [krlmlr/deparse: A nicer deparse](https://github.com/krlmlr/deparse)
+
+### datapasta package
+
+* [How to Datapasta](https://cran.r-project.org/web/packages/datapasta/vignettes/how-to-datapasta.html)
