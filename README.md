@@ -24,6 +24,10 @@
 
 * [Advanced R - 8 Debugging, condition handling, and defensive programming](https://adv-r.hadley.nz/debugging.html)
 
+### "Debugging methods in R6 objects" by Winston Chang
+
+* [Debugging methods in R6 objects](https://cran.r-project.org/web/packages/R6/vignettes/Debugging.html)
+
 ## Read the Sources
 
 ### Unofficial read-only mirror of all CRAN R packages
