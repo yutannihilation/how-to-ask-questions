@@ -20,6 +20,10 @@
 
 * [Debugging compiled code · R packages](http://r-pkgs.had.co.nz/src.html#src-debugging)
 
+### "Advanced R" by Hadley Wickham
+
+* [Advanced R - 8 Debugging, condition handling, and defensive programming](https://adv-r.hadley.nz/debugging.html)
+
 ## Read the Sources
 
 ### Unofficial read-only mirror of all CRAN R packages
